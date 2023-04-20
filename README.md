@@ -10,3 +10,7 @@ Le programme affiche ensuite le graphe dans le format de GraphViz dans le termin
 Il est possible de visualiser l'image vis.png du graphe générée par GraphViz avec la commande : `make vis` 
 
 Il faut au préalable avoir installer GraphViz sur son ordinateur. 
+
+
+## Graphe
+![](vis.png) 
